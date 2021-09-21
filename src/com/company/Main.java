@@ -36,5 +36,6 @@ public class Main {
         }
         System.out.println("zmena");
         System.out.println("dasdsafdfajhfdasjkldfasjkl");
+        System.out.println("adlk;s");
     }
 }
