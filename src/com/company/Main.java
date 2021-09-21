@@ -35,5 +35,7 @@ public class Main {
                 break;
         }
         System.out.println("zmena");
+        System.out.println("dasdsafdfajhfdasjkldfasjkl");
+        System.out.println("adlk;s");
     }
 }
