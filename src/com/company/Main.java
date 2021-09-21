@@ -16,10 +16,12 @@ public class Main {
         }
         if (!isValid) {
             System.out.println("Bad arg");
+            System.out.println("letorle");
             System.exit(-1);
         }
         double a = sc.nextDouble();
         double b = sc.nextDouble();
+        System.out.println("Jan Tyll");
         switch (args[0]) {
             case "s":
                 System.out.println(a + b);
@@ -34,6 +36,6 @@ public class Main {
                 System.out.println(a / b);
                 break;
         }
-        System.out.println("zmena");
+        System.out.println("opicka hihi");
     }
 }
