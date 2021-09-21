@@ -34,6 +34,7 @@ public class Main {
                 System.out.println(a / b);
                 break;
         }
-
+        System.out.println("zmena");
+        System.out.println("dalsi změna");
     }
 }
