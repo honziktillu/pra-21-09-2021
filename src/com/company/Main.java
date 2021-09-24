@@ -35,5 +35,6 @@ public class Main {
                 break;
         }
         System.out.println("zmena");
+        System.out.println("dalsi změna");
     }
 }
