@@ -36,5 +36,6 @@ public class Main {
         }
         System.out.println("zmena");
         System.out.println("zmena od tomase");
+        System.out.println("zmena od tomase");
     }
 }
